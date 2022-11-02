@@ -5,6 +5,11 @@ This app cloned TikTok App on Web, has responsive
 - https://github.com/adrianhajdin/project_tiktik
 - https://console.cloud.google.com/
 
+Building
+
+- Github.com - create response
+- Vercel.com - deploy with some config inside .env
+
 Technical using:
 
 - React Js
